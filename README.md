@@ -4,7 +4,7 @@ The following projects are available for viewing:
 
 [JROTMG-AHK](https://github.com/jakcodex/jrotmg-ahk)
 
-[JTimer-Tools](https://github.com/jakcodex/jtimer-tools)
+[JTimer-Tools](https://jakcodex.github.io/jtimer-tools)
 
 [Muledump](https://jakcodex.github.io/muledump/)
 
